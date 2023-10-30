@@ -1,0 +1,49 @@
+
+            /* changing the background and font color */
+            body{
+                background-color: rgb(25,25,25);
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            /* changing the background and font color */
+            .title{
+                font-size: 30px;
+                font-weight: bold;
+            }
+
+            /* changing the background and font color */
+            .moveIcon{
+                height: 70px;
+            }
+            
+            /* changing the style of the move buttons */
+            .moveButton{
+                background-color: transparent;
+                border: 2px solid white;
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                cursor: pointer;
+            }
+
+            /* changing result style */
+            .result{
+                font-size: 25px;
+                font-weight: bold;
+                margin-top: 50px;
+            }
+
+            /* changing score style */
+            .score{
+                margin-top: 60px;
+            }
+
+            /* chngin reset button style */
+            .resetButton{
+                background-color: white;
+                font-size: 15px;
+                border: none;
+                padding: 8px 15px;
+                cursor: pointer;
+            }
